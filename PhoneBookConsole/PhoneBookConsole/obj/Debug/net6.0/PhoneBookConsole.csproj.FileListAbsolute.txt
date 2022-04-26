@@ -1,0 +1,15 @@
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.exe
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.deps.json
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.runtimeconfig.json
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.dll
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\bin\Debug\net6.0\PhoneBookConsole.pdb
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.AssemblyReference.cache
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfoInputs.cache
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.AssemblyInfo.cs
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.csproj.CoreCompileInputs.cache
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.dll
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\refint\PhoneBookConsole.dll
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.pdb
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\PhoneBookConsole.genruntimeconfig.cache
+W:\dev\personal\phonebook\PhoneBookConsole\PhoneBookConsole\obj\Debug\net6.0\ref\PhoneBookConsole.dll
